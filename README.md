@@ -3,7 +3,7 @@
 ![](weather.gif)
 
 ### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
+[https://weather-app-ten-fawn.vercel.app/](https://weather-app-ten-fawn.vercel.app/)
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
